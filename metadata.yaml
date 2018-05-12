@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7648
     wikipedia: http://en.wikipedia.org/wiki/Mary_Prince
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17851#The-History-of-Mary-Prince-a-West-Indian-Slave
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2006-02-24'
 gutenberg_type: Text
